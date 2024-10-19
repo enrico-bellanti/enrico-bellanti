@@ -2,7 +2,7 @@
 
 Hi there!
 
-I'm Enrico, a passionate Front-End Developer. Coding is my absolute obsession, and I'm driven by the goal of creating innovative applications that positively impact people's lives.
+I'm Enrico, a passionate Senior Frontend Developer. Coding is my absolute obsession, and I'm driven by the goal of creating innovative applications that positively impact people's lives.
 
 I specialize in building user-friendly and efficient web applications that solve real-world problems. I'm always eager to explore new technologies and stay up-to-date with the latest trends in web development.
 
